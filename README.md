@@ -1,4 +1,7 @@
 ## Hi there 👋
+## 🧮 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Psy_Consumer?theme=dark&font=Fira+Code)
 
 <!--
 **Dr-Strangeluv/Dr-Strangeluv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
